@@ -4,6 +4,9 @@ A full-stack, provably fair crypto casino running on **10 EVM testnets**. Player
 
 > ⚠️ **Disclaimer:** This project runs exclusively on testnets and uses tokens with no real monetary value. It is intended for educational and portfolio purposes only.
 
+## Live Demo
+https://casino-rosy-eta.vercel.app/
+
 ---
 
 ## ✨ Features
