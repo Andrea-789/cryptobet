@@ -219,5 +219,3 @@ https://your-backend.railway.app/deposits/webhook/alchemy
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-![cryptobet](1 (1).jpg?raw=true)
